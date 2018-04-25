@@ -3,7 +3,7 @@
 //  shinki_app
 //
 //  Created by 阿部一真 on 2018/04/25.
-//  Copyright © 2018年 阿部一真. All rights reserved.
+//  Copyright © 2018年 阿部一真 . All rights reserved.
 //
 
 import UIKit
